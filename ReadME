@@ -1,6 +1,6 @@
 install
 
 ''''
-bash <(curl -s https://raw.githubusercontent.com/wayangkulit95/guluguluindex/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/wayangkulit95/guluguluindex/refs/heads/main/install.sh)
 
 ''''
